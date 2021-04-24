@@ -60,13 +60,17 @@ a::before {
     margin-left: 91px;
     margin-top: 116px;
     text-align: center;
+    filter: drop-shadow(10px 10px 0px #000000);
 }
 
-h1 {
+
+
+p { 
+    color: #fff;
     font-family: "Press Start 2P", sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 40px;
-    line-height: 40px;
-    margin: 42px, 97px, 102px, 90px;
+    font-size: 30px;
+    line-height: 30px;
+    text-shadow: 4px 4px 0px #000000;
 }
