@@ -52,13 +52,3 @@ a::before {
     background-color: #33161a;
 }
 
-#Titulo {
-    background-color: #3A4042;
-    display: inline-block;
-    height: 184px;
-    width: 627px;
-    margin-left: 91px;
-    margin-top: 116px;
-    text-align: center;
-    filter: drop-shadow(10px 10px 0px #000000);
-}
