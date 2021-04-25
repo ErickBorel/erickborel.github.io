@@ -62,15 +62,3 @@ a::before {
     text-align: center;
     filter: drop-shadow(10px 10px 0px #000000);
 }
-
-
-
-p { 
-    color: #fff;
-    font-family: "Press Start 2P", sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 30px;
-    text-shadow: 4px 4px 0px #000000;
-}
