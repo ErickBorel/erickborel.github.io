@@ -4,6 +4,7 @@
     text-align: center;
     box-shadow: 10px 10px 10px #000000;
     padding: 42px 44px;
+    border-radius: 20px;
 }
 
 .box .title {
