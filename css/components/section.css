@@ -5,3 +5,7 @@
     height: 730px;
     border-bottom: 10px solid #000;
 }
+
+.section .main-title {
+    margin-bottom: 60px;
+}
