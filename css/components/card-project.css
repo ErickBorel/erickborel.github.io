@@ -1,0 +1,14 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3A4042;
+    width: 280px;
+    height: 280px;
+    box-shadow: 5px 5px 4px #000;
+    border-radius: 20px;
+}
+
+.card-project.-red {
+    background-color: #BB2020;
+}
