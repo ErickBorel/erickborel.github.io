@@ -1,0 +1,11 @@
+.main-footer {
+    background-color: #000;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-footer .icon {
+    margin-right: 40px;
+}
