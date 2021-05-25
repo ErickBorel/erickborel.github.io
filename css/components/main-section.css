@@ -26,3 +26,7 @@
 .main-section.-bdBlack {
     border-color: #000;
 }
+
+.main-section.-contact {
+    border-bottom: none;
+}
