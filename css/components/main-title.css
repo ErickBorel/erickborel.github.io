@@ -2,20 +2,20 @@
     color: #BB2020;
     font-family: "New Tegomin", serif;
     font-size: 50px;
-    text-shadow: 4px 4px 4px #000000;
+    text-shadow: 4px 4px 4px #000;
     margin-bottom: 15px;
 }
 
 .main-title.-second {
     color: #fff;
-    text-shadow: none;
+    text-shadow: 4px 4px 4px #000;
     text-align: center;
 }
 
 .main-title.-second.-about {
-    text-shadow: 4px 4px 4px #000000
+    text-shadow: 4px 4px 4px #000;
 }
 
 .main-title.-second.-contact {
-    text-shadow: 4px 4px 4px #000000
+    text-shadow: 4px 4px 4px #000;
 }
