@@ -3,10 +3,10 @@
     justify-content: center;
     align-items: center;
     background-color: #3A4042;
-    width: 280px;
-    height: 280px;
+    width: 350px;
+    height: 350px;
     box-shadow: 5px 5px 4px #7F7F7F;
-    border-radius: 20px;
+    border-radius: 250px;
 }
 
 .card-project.-red {
