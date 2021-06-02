@@ -37,11 +37,11 @@
             <img src="assets/img/logo.png" alt="Avatar do Erick Borel" style="border-radius: 15px">
 
             <nav>
-                <a class="main-action" href="" lang="en">Skills</a>
-                <a class="main-action" href="">Projetos</a>
-                <a class="main-action" href="">Sobre</a>
-                <a class="main-action" href="">Contatos</a>
-                <a class="main-button"href="" leng="en">Download CV</a>
+                <a class="main-action" href="#skills" leng="en">Skills</a>
+                <a class="main-action" href="#Project">Projetos</a>
+                <a class="main-action" href="#about">Sobre</a>
+                <a class="main-action" href="#contact">Contatos</a>
+                <a class="main-button" href="CV/CV Erick.pdf" download="CV Erick.pdf" type="application/pdf" leng="en">Download CV</a>
             </nav>
         </header>
 
@@ -53,13 +53,13 @@
                 </div>
 
                 <div class="navigation">    
-                    <a class="main-button"href="" leng="en">Download CV</a>
-                    <a class="main-button"href="">Contatos</a>
+                    <a class="main-button"href="CV/CV Erick.pdf" download="CV Erick.pdf" type="application/pdf" leng="en">Download CV</a>
+                    <a class="main-button"href="#contact">Contatos</a>
                 </div>
             </div>
         </section>
 
-        <section class="main-section">
+        <section id="skills" class="main-section">
             <h1 class="main-title -second">Skills</h1>
             <div class="wrapper-skill">
                 <article class="skill-tec">
@@ -137,7 +137,7 @@
             </div>
         </section>
       
-        <section class="main-section -bgBlack -bdRed">
+        <section id="Project" class="main-section -bgBlack -bdRed">
             <h2 class="main-title -second">Projetos</h2>
             
             <div class="wrapper-card">
@@ -158,10 +158,10 @@
                 </a>
             </div>
         </section>
-        <section class="main-section -bdBlack -bgGrey">
+        <section id="about" class="main-section -bdBlack -bgGrey">
             <h2 class="main-title -second -about">Sobre</h2>
 
-            <section class="main-carousel">
+          <!--  <section class="main-carousel">
                 <button class="button-arrow -left"><span class="content">Voltar</span></button>
                 
                 <div class="items">
@@ -211,26 +211,21 @@
                 </div>
 
                 <button class="button-arrow -right"><span class="content">Avançar</span></button>
-            </section>
+            </section> -->
             <p class="main-description">
-                Operador de ponte rolante e estudante de programação sempre buscando novos horizontes, Gosta de ir descobrindo seu caminho conforme o percorre!
+                Operador de ponte rolante e estudante de programação, Sempre buscando novos horizontes, Gosta de ir descobrindo seu caminho conforme o percorre!
             </p>
         </section>
 
-        <form class="main-form">
-            <legend class="main-title -second">Contatos</legend>
-
-            <label class="main-label" for="name">Nome</label>
-            <input class="main-input" id="name" type="text" required>
-    
-            <label class="main-label" for="email">Email</label>
-            <input class="main-input" id="email" type="email" required>
-                
-            <label class="main-label" for="message">Mensagem</label>
-            <textarea class="main-input -textarea" id="message" required></textarea>
-    
-            <button class="main-button -form" type="submit">Enviar</button>
-        </form>
+        <section id="contact" class="main-section -contact">
+            <h1 class="main-title -second">Contatos</h1>
+            <div class="icon">
+                <a href="http://api.whatsapp.com/send?phone=5541997998496" target="_blank">
+                    <img src="img/whatsapp-icon.png" alt="logo whatsapp">
+                </a>
+            </div>
+            
+        </section>
 
         <footer class="main-footer">
             <div class="icon">
