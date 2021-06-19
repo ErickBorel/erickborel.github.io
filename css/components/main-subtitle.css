@@ -7,3 +7,20 @@
     line-height: 30px;
     text-shadow: 4px 4px 4px #000000;
 }
+
+.main-subtitle.-label {
+    padding-top: 20px;
+}
+
+.main-subtitle.-label.-calc {
+    padding-left: 70px;
+}
+
+.main-subtitle.-label.-port {
+    width: 190px;
+    padding-left: 86px;
+}
+
+a {
+    text-decoration: none;
+}
