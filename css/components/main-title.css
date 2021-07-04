@@ -15,3 +15,8 @@
 .main-title.-second.-about {
     text-shadow: 4px 4px 4px #000;
 }
+
+.main-title.-logo {
+    color: #fff;
+    font-size: 32px;   
+}
