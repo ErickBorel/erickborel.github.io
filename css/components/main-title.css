@@ -18,5 +18,6 @@
 
 .main-title.-logo {
     color: #fff;
-    font-size: 32px;   
+    font-size: 32px;
+    text-shadow: 4px 4px 10px #000;;
 }
